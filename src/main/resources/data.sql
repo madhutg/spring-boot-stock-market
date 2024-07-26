@@ -1,0 +1,6 @@
+INSERT INTO Stock (symbol, type, last_dividend, fixed_dividend, par_value)
+VALUES ('TEA', 'Common', 0, 0, 100),
+       ('POP', 'Common', 8, 0, 100),
+       ('ALE', 'Common', 23, 0, 60),
+       ('GIN', 'Preferred', 8, 2, 100),
+       ('JOE', 'Common', 13, 0, 250);
